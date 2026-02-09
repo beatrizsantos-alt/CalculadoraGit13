@@ -1,5 +1,9 @@
 package calculadora13;
-
+/**
+ * Clase CalculadoraGIT13
+ * Calculadora básica del ejercicio 6.
+ @author Beatriz
+ */
 public class Calculadora13 {
 
 	public int sumar(int a, int b) {
