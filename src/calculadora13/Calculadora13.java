@@ -4,6 +4,7 @@ package calculadora13;
  * Clase CalculadoraGIT13 Calculadora básica del ejercicio 6.
  * 
  * @author Beatriz
+ * @since 2026-02-09
  */	
 	/**
 	 * Suma dos números enteros.
